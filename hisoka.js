@@ -783,7 +783,7 @@ Selama ${clockString(new Date - user.afkTime)}
                 teksehmazeh += `_*${pushname}*_`
                 await hisoka.send5ButImg(m.chat, `` + '' + teksehmazeh, footer, ThadzBotZ, [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -1298,16 +1298,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                 anu = `
 ⭔ Allah SWT
 ⭔ Ortu Saya.
-⭔ DikaArdnt (Author).
-⭔ Sanzy YT.
-⭔ GuaAbuzz. (Saya)
-⭔ Fatih A.
-⭔ Nurutomo.
-⭔ Mhankbarbar.
-⭔ ZeeoneOfc.
-⭔ Penyedia Module.
-⭔ Penyedia Res Api's.
-⭔ All My Friends.
+⭔ My Team.
+⭔ *Nizar Rahman* : https://instagram.com/nizarrrahman.f_
+⭔ *Adryan Nugraha* : https://www.instagram.com/adrynngrha
+⭔ *Irham Khoiri* : https://instagram.com/yuki_sen23
 
 • Library : *Baileys-MD*.
 • Prefix : ( ${prefix} )
@@ -1318,7 +1312,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 • Wit : ${wit}`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -1384,7 +1378,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 │└─────────────┈❖
 │ Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 │ Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
-│ Menuju idul Adha :
+│ Menuju Hbd Nizar :
 │  ${menuju}
 │ WIB : ${wib}
 │ WITA : ${wita}
@@ -1592,14 +1586,12 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             case 'script': {
                 anu = `
                 *Info Script*     
-📚 *Base : Dika Ardnt* 
-https://github.com/DikaArdnt/Hisoka-Morou
 
-🌱 Recode By : GuaAbuzz
+🌱 By : NAI-DEVELOPER
 ${global.scbot}`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -1639,7 +1631,7 @@ ${global.scbot}`
             case 'test':
             case 'jaringan':
             case 'lag': {
-                m.reply('Pending Ya Kak?')
+                m.reply('Delay Ya Kak?')
             }
             break
             case 'chat': {
@@ -2648,7 +2640,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
                     await sleep(1500)
                     let btn = [{
                         urlButton: {
-                            displayText: 'TikTok Creator',
+                            displayText: 'Web Owner',
                             url: global.myweb
                         }
                     }, {
@@ -2689,7 +2681,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
                     await sleep(1500)
                     let btn = [{
                         urlButton: {
-                            displayText: 'TikTok Creator',
+                            displayText: 'Web Owner',
                             url: global.myweb
                         }
                     }, {
@@ -4332,7 +4324,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
                     image: {
                         url: 'https://zenzapis.xyz/api/morensfw/jahy?apikey=GuaAbuzz17'
                     },
-                    caption: `Astaghfirullah Tobat Kak`,
+                    caption: `Astaghfirullah Tobat Brother`,
                     footer: hisoka.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -6817,7 +6809,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
                     .trim()
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -6913,7 +6905,7 @@ Request Message: ${text}`
                         let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com', ''))
                         var but = [{
                             urlButton: {
-                                displayText: 'TikTok Creator',
+                                displayText: 'Web Owner',
                                 url: global.myweb
                             }
                         }, {
@@ -6960,7 +6952,7 @@ Request Message: ${text}`
                         let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com', ''))
                         var but = [{
                             urlButton: {
-                                displayText: 'TikTok Creator',
+                                displayText: 'web owner',
                                 url: global.myweb
                             }
                         }, {
@@ -7006,7 +6998,7 @@ Request Message: ${text}`
                         let gam = await getBuffer(data[0].thumbnail.replace('https://www.anime-planet.com', ''))
                         var but = [{
                             urlButton: {
-                                displayText: 'TikTok Creator',
+                                displayText: 'Web Owner',
                                 url: global.myweb
                             }
                         }, {
@@ -7325,7 +7317,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7391,7 +7383,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7472,7 +7464,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7545,7 +7537,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7616,7 +7608,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7685,7 +7677,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7762,7 +7754,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7842,7 +7834,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7913,7 +7905,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -7988,7 +7980,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8050,7 +8042,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8115,7 +8107,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8181,7 +8173,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8248,7 +8240,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8385,7 +8377,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8458,7 +8450,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8565,7 +8557,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8660,7 +8652,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8769,7 +8761,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8833,7 +8825,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8921,7 +8913,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -8990,7 +8982,7 @@ Request Message: ${text}`
 └───────⭓`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9062,7 +9054,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9075,12 +9067,8 @@ Request Message: ${text}`
                         displayText: 'Rules',
                         id: 'rules'
                     }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
-                    }
-                }, {
+                },
+                           {
                     quickReplyButton: {
                         displayText: 'Sewabot',
                         id: 'sewabot'
@@ -9128,7 +9116,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9140,11 +9128,6 @@ Request Message: ${text}`
                     quickReplyButton: {
                         displayText: 'Rules',
                         id: 'rules'
-                    }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
                     }
                 }, {
                     quickReplyButton: {
@@ -9191,7 +9174,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9203,11 +9186,6 @@ Request Message: ${text}`
                     quickReplyButton: {
                         displayText: 'Rules',
                         id: 'rules'
-                    }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
                     }
                 }, {
                     quickReplyButton: {
@@ -9265,7 +9243,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9277,11 +9255,6 @@ Request Message: ${text}`
                     quickReplyButton: {
                         displayText: 'Rules',
                         id: 'rules'
-                    }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
                     }
                 }, {
                     quickReplyButton: {
@@ -9342,7 +9315,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9355,11 +9328,7 @@ Request Message: ${text}`
                         displayText: 'Rules',
                         id: 'rules'
                     }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
-                    }
+                
                 }, {
                     quickReplyButton: {
                         displayText: 'Sewabot',
@@ -9411,7 +9380,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9423,11 +9392,6 @@ Request Message: ${text}`
                     quickReplyButton: {
                         displayText: 'Rules',
                         id: 'rules'
-                    }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
                     }
                 }, {
                     quickReplyButton: {
@@ -9474,7 +9438,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9486,11 +9450,6 @@ Request Message: ${text}`
                     quickReplyButton: {
                         displayText: 'Rules',
                         id: 'rules'
-                    }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
                     }
                 }, {
                     quickReplyButton: {
@@ -9544,7 +9503,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9557,11 +9516,7 @@ Request Message: ${text}`
                         displayText: 'Rules',
                         id: 'rules'
                     }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
-                    }
+                
                 }, {
                     quickReplyButton: {
                         displayText: 'Sewabot',
@@ -9610,7 +9565,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -9623,11 +9578,7 @@ Request Message: ${text}`
                         displayText: 'Rules',
                         id: 'rules'
                     }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
-                    }
+                }, 
                 }, {
                     quickReplyButton: {
                         displayText: 'Sewabot',
@@ -9676,7 +9627,7 @@ Request Message: ${text}`
                             hydratedFooterText: `© ${global.namabot}`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'TikTok Creator',
+                                    displayText: 'Web Owner',
                                     url: global.myweb
                                 }
                             }, {
@@ -9689,11 +9640,7 @@ Request Message: ${text}`
                                     displayText: 'Rules',
                                     id: 'rules'
                                 }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'Donasi',
-                                    id: 'donasi'
-                                }
+                            
                             }, {
                                 quickReplyButton: {
                                     displayText: 'List Menu',
@@ -10350,7 +10297,7 @@ Request Message: ${text}`
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
-                        displayText: 'TikTok Creator',
+                        displayText: 'Web Owner',
                         url: global.myweb
                     }
                 }, {
@@ -10363,11 +10310,8 @@ Request Message: ${text}`
                         displayText: 'Rules',
                         id: 'rules'
                     }
-                }, {
-                    quickReplyButton: {
-                        displayText: 'Donasi',
-                        id: 'donasi'
-                    }
+                },
+                    
                 }, {
                     quickReplyButton: {
                         displayText: 'Sewabot',
